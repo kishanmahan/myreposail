@@ -1,5 +1,6 @@
   import java.util.HashMap;
   import java.util.Map;
+  import java.util.ArrayList;
   import sailpoint.api.SailPointContext;
   import sailpoint.object.ResourceObject;
   import sailpoint.tools.Util;
